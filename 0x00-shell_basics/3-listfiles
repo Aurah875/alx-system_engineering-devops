@@ -1,1 +1,2 @@
-display current directory contents in a long format
+#!/bin/bash
+ls -lt
